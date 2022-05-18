@@ -12,8 +12,8 @@ Each entries shows entry_ID, expense name, entry date, amount in dollar($), addi
 ## How It Works
 Lists are stored in a local SQLite Database. Add, Update and Delete calls changes the data in the local database.
 
-## Security Feature
-SQL injection attacks protection.All editTexts that calls add and update functions are coded such that users entries are not directly inserted into SQL command line.
+## SQL Injection Attack Protection
+All editTexts that calls add and update functions are coded such that users entries are not directly inserted into SQL command line.
 
 
 
