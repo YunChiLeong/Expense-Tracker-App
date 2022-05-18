@@ -11,7 +11,7 @@ Each entries shows entry_ID, expense name, entry date, amount in dollar($), addi
 ![download (3)](https://user-images.githubusercontent.com/47125700/168929829-967df14c-ec80-4d53-8924-dfea02ffe64e.png)![image](https://user-images.githubusercontent.com/47125700/168930408-662846ab-4398-4fdf-bd48-10d6c832eaea.png)
 
 ## SQLite Database
-Data are stored in a local SQLite database. Add, Update and Delete calls changes the data in the local database.
+Data are stored in a local SQLite database. Add, Update and Delete calls changes the data in the local database in real time. This means this app does not require internet connectivity to function.
 
 ## SQL Injection Attack Protection
 All editTexts that calls add and update functions are coded such that users entries are not directly inserted into SQL command line.
