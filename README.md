@@ -2,7 +2,8 @@
 An android app that allows user to keep track of their expenses. User can add, delete, update their expense entry. 
 
 ## How It Looks
-User can add, delete update and organize their expenses.
+User can add, delete, delete_all, and update their expenses.
+The home screen provides user an organized view of all entries in the list.
 Each entries shows entry_ID, expense name, entry date, amount in dollar($), additional notes.
 
 ![download (4)](https://user-images.githubusercontent.com/47125700/168929819-c071d750-9a21-4a08-a78f-585d3986d555.png)![image](https://user-images.githubusercontent.com/47125700/168930194-e8e0f58d-317b-4b65-bf94-3f278dda6e9a.png)
